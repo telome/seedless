@@ -1,0 +1,16 @@
+{
+  "name": "seedless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "pullup",
+  "license": "LGPL-3.0-or-later",
+  "dependencies": {
+    "dotenv": "^16.1.3",
+    "ethers": "^6.4.1"
+  }
+}
